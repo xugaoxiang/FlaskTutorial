@@ -6,3 +6,4 @@
 5. [GET和POST](https://xugaoxiang.com/2020/03/18/flask-5-get-post/)
 6. [Cookie和Session](https://xugaoxiang.com/2020/03/19/flask-6-cookie-session/)
 7. [文件上传](https://xugaoxiang.com/2020/03/20/flask-7-file-upload/)
+8. [重定向](https://xugaoxiang.com/2020/03/23/flask-8-redirect/)
