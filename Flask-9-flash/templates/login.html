@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Login</title>
+</head>
+<body>
+    <form method = "post" action = "http://localhost:5000/login">
+        <table>
+            <tr>
+                <td>Email</td>
+                <td><input type = 'email' name = 'email'></td>
+            </tr>
+            <tr>
+                <td>Password</td>
+                <td><input type = 'password' name = 'password'></td>
+            </tr>
+            <tr>
+                <td><input type = "submit" value = "Submit"></td>
+            </tr>
+        </table>
+    </form>
+
+    {% if error %}
+        <p><strong>Error</strong>: {{ error }}</p>
+    {% endif %}
+</body>
+</html>
