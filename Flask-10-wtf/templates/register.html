@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Register</title>
+</head>
+<body>
+
+    <form method="post">
+        {# 设置csrf_token #}
+        {{ form.csrf_token() }}
+        {{ form.username.label }}{{ form.username }} <br>
+        {{ form.email.label }}{{ form.email  }} <br>
+        {{ form.password.label }}{{ form.password }} <br>
+        {{ form.password2.label }}{{ form.password2 }} <br>
+        {{ form.submit }}
+    </form>
+
+</body>
+</html>
