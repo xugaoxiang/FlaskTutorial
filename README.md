@@ -8,3 +8,4 @@
 7. [文件上传](https://xugaoxiang.com/2020/03/20/flask-7-file-upload/)
 8. [重定向](https://xugaoxiang.com/2020/03/23/flask-8-redirect/)
 9. [闪现消息](https://xugaoxiang.com/2020/03/25/flask-9-flash/)
+10. [表单处理](https://xugaoxiang.com/2020/07/09/flask-10-wtf/)
