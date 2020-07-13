@@ -18,7 +18,7 @@ class RegisterForm(FlaskForm):
 
 
 @app.route('/', methods=['GEt', 'POST'])
-def login():
+def register():
     
     register_form = RegisterForm()
 
