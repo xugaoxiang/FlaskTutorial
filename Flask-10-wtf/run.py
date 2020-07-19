@@ -29,7 +29,7 @@ def register():
             password = request.form.get('password')
             password2 = request.form.get('password2')
 
-            if username == 'xgx' and password == password2 and email == 'test@gmail.com':
+            if username == 'xgx' and email == 'test@gmail.com':
                 # 进入这里就表示表单验证成功
                 return 'Register success, username: {}, email: {}, password: {}'.format(username, email, password)
             else:
