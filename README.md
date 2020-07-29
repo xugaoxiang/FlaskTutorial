@@ -10,3 +10,4 @@
 9. [闪现消息](https://xugaoxiang.com/2020/03/25/flask-9-flash/)
 10. [表单处理](https://xugaoxiang.com/2020/07/09/flask-10-wtf/)
 11. [数据库操作flask-sqlalchemy](https://xugaoxiang.com/2020/07/14/flask-11-sqlalchemy/)
+12. [项目部署](https://xugaoxiang.com/2020/07/21/flask-12-deployment/)
