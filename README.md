@@ -1,4 +1,5 @@
 # FlaskTutorial
+
 1. [开发环境搭建](https://xugaoxiang.com/2020/03/12/flask-1-intro/)
 2. [第一个Flask应用程序](https://xugaoxiang.com/2020/03/12/flask-2-first-app/)
 3. [路由](https://xugaoxiang.com/2020/03/13/flask-3-routing/)
@@ -11,3 +12,4 @@
 10. [表单处理](https://xugaoxiang.com/2020/07/09/flask-10-wtf/)
 11. [数据库操作flask-sqlalchemy](https://xugaoxiang.com/2020/07/14/flask-11-sqlalchemy/)
 12. [项目部署](https://xugaoxiang.com/2020/07/21/flask-12-deployment/)
+13. [常用项目结构](https://xugaoxiang.com/2020/08/19/flask-13-project-struture/)
