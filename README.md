@@ -13,3 +13,5 @@
 11. [数据库操作flask-sqlalchemy](https://xugaoxiang.com/2020/07/14/flask-11-sqlalchemy/)
 12. [项目部署](https://xugaoxiang.com/2020/07/21/flask-12-deployment/)
 13. [常用项目结构](https://xugaoxiang.com/2020/08/19/flask-13-project-struture/)
+14. [蓝图](https://xugaoxiang.com/2020/08/24/flask-14-blueprint/)
+15. [日志](https://xugaoxiang.com/2020/08/25/flask-15-logging/)
