@@ -17,3 +17,4 @@
 15. [日志](https://xugaoxiang.com/2020/08/25/flask-15-logging/)
 16. [RESTful-API](https://xugaoxiang.com/2020/08/26/flask-16-restful-api/)
 17. [flask-cors](https://xugaoxiang.com/2020/08/26/flask-17-cors/)
+18. [flask-jwt-extended](https://xugaoxiang.com/2020/09/01/flask-18-jwt-extended/)
