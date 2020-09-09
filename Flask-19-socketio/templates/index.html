@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Socket Demo</title>
+    <script type="text/javascript" src="//cdn.bootcss.com/jquery/3.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="//cdn.bootcss.com/socket.io/1.5.1/socket.io.min.js"></script>
+</head>
+<body>
+
+<h2>Demo of Socket BroadCast</h2>
+<div id="t"></div>
+<script>
+$(document).ready(function () {
+    namespace = '/dcenter';
+    var socket = io.connect(location.protocol + '//' + document.domain + ':' + location.port + namespace);
+    socket.on('dcenter', function (res) {
+        var t = res.data;
+        if (t) {
+            $("#t").append(t).append('<br/>');
+        }
+
+    });
+});
+</script>
+</body>
+</html>
