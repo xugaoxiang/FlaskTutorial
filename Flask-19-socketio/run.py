@@ -1,10 +1,9 @@
-# _*_ coding:utf-8 _*_
 from flask import Flask, render_template
 from flask_socketio import SocketIO, emit
 
 
 app = Flask(__name__)
-app.config['SECRET_KEY'] = 'D20fndvfMK27^313787-AQl131'
+app.config['SECRET_KEY'] = 'secret_key'
 
 socketio = SocketIO()
 socketio.init_app(app, cors_allowed_origins='*')
@@ -27,12 +26,12 @@ def push_once():
 
 @socketio.on('connect', namespace=name_space)
 def connected_msg():
-    print('client connected from server.')
+    print('client connected.')
 
 
 @socketio.on('disconnect', namespace=name_space)
 def disconnect_msg():
-    print('client disconnected from server.')
+    print('client disconnected.')
 
 
 @socketio.on('my_event', namespace=name_space)
