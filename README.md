@@ -20,3 +20,4 @@
 18. [flask-jwt-extended](https://xugaoxiang.com/2020/09/01/flask-18-jwt-extended/)
 19. [flask-socketio](https://xugaoxiang.com/2020/10/08/flask-19-socketio/)
 20. [flask-apscheduler](https://xugaoxiang.com/2020/10/08/flask-20-apscheduler/)
+21. [添加favicon](https://xugaoxiang.com/2020/11/11/flask-21-favicon/)
