@@ -21,3 +21,4 @@
 19. [flask-socketio](https://xugaoxiang.com/2020/10/08/flask-19-socketio/)
 20. [flask-apscheduler](https://xugaoxiang.com/2020/10/08/flask-20-apscheduler/)
 21. [添加favicon](https://xugaoxiang.com/2020/11/11/flask-21-favicon/)
+22. [在浏览器中播放rtsp实时流](https://xugaoxiang.com/2020/11/12/flask-22-opencv-rtsp/)
