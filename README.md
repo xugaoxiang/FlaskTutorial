@@ -23,3 +23,4 @@
 21. [添加favicon](https://xugaoxiang.com/2020/11/11/flask-21-favicon/)
 22. [在浏览器中播放rtsp实时流](https://xugaoxiang.com/2020/11/12/flask-22-opencv-rtsp/)
 23. [简单异步任务](https://xugaoxiang.com/2020/11/16/flask-23-threadpoolexecutor/)
+24. [http请求转发](https://xugaoxiang.com/2020/11/24/flask-24-http-proxy/)
