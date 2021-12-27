@@ -25,3 +25,4 @@
 23. [简单异步任务](https://xugaoxiang.com/2020/11/16/flask-23-threadpoolexecutor/)
 24. [http请求转发](https://xugaoxiang.com/2020/11/24/flask-24-http-proxy/)
 25. [接收多文件](https://xugaoxiang.com/2021/05/20/flask-25-receive-multiple-files/)
+25. [flask-executor](https://xugaoxiang.com/2021/12/27/flask-26-flask-executor/)
